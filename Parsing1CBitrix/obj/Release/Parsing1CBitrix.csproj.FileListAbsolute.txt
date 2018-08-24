@@ -1,0 +1,6 @@
+H:\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\bin\Release\Parsing1CBitrix.exe.config
+H:\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\bin\Release\Parsing1CBitrix.exe
+H:\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\bin\Release\Parsing1CBitrix.pdb
+H:\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\obj\Release\Parsing1CBitrix.csproj.CoreCompileInputs.cache
+H:\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\obj\Release\Parsing1CBitrix.exe
+H:\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\obj\Release\Parsing1CBitrix.pdb

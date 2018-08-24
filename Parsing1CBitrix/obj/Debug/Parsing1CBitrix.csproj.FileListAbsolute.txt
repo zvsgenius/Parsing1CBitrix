@@ -1,0 +1,6 @@
+D:\WORK\home\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\bin\Debug\Parsing1CBitrix.exe.config
+D:\WORK\home\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\bin\Debug\Parsing1CBitrix.exe
+D:\WORK\home\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\bin\Debug\Parsing1CBitrix.pdb
+D:\WORK\home\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\obj\Debug\Parsing1CBitrix.csprojResolveAssemblyReference.cache
+D:\WORK\home\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\obj\Debug\Parsing1CBitrix.exe
+D:\WORK\home\Programming\Projects\Parsing1CBitrix\Parsing1CBitrix\obj\Debug\Parsing1CBitrix.pdb
